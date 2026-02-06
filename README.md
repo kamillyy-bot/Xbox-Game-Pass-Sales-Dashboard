@@ -16,6 +16,9 @@ A partir da visualização, é possível notar:
 1. **Diferença de Market Share**
 2. **Potencial de Conversão:** A análise de assinaturas ativas permite identificar oportunidades para campanhas de retenção em planos específicos.
 
+## 📁 Estrutura do Repositório
+- [Xbox_sales_dashboard.xlsx](./Xbox_sales_dashboard.xlsx): Planilha contendo a base de dados, os cálculos de indicadores e a interface visual do dashboard.
+
 ## ✍️ Autora
 Desenvolvido por **Kamilly Oliveira**
 Estudante de Engenharia na USP | Interessada em Dados e Mercado Financeiro.
